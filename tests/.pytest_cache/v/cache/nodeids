@@ -1,0 +1,12 @@
+[
+  "test_homepage.py::TestHomepage::test_home_page_1___shoes___",
+  "test_homepage.py::TestHomepage::test_home_page_1___shoes____pants____lehenga__",
+  "test_homepage.py::TestHomepage::test_home_page_1_shoes",
+  "test_homepage.py::TestHomepage::test_home_page_1_test1",
+  "test_homepage.py::TestHomepage::test_home_page_2___pants___",
+  "test_homepage.py::TestHomepage::test_home_page_2_pants",
+  "test_homepage.py::TestHomepage::test_home_page_2_test2",
+  "test_homepage.py::TestHomepage::test_home_page_3___lehenga___",
+  "test_homepage.py::TestHomepage::test_home_page_3_lehenga",
+  "test_homepage.py::TestHomepage::test_home_page_3_test3"
+]
